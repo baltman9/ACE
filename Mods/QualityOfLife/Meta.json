@@ -1,0 +1,10 @@
+{
+  "Name": "QualityOfLife",
+  "Author": "",
+  "Description": "Disabled: the March 2024 binary requires the removed ACE.Shared assembly and crashes current ACE during container inventory cleanup.",
+  "Version": "1.0",
+  "Enabled": false,
+  "HotReload": true,
+  "RegisterCommands": true,
+  "ACEVersion": "0.0"
+}

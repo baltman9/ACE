@@ -1,0 +1,10 @@
+{
+  "Name": "Raise",
+  "Author": "",
+  "Description": "Disabled: its static initializer accesses DAT data before DatManager is ready on current ACE.",
+  "Version": "1.0",
+  "Enabled": false,
+  "HotReload": true,
+  "RegisterCommands": true,
+  "ACEVersion": "0.0"
+}
